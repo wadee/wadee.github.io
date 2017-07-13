@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 正式启用博客 
+title: Nice to meet u, github-pages and jekyll
 date: 2017-07-12 12:11:11.000000000 +09:00
 tags: Jekyll Github pages
 ---
 
-#### 正式启用博客
-* 希望自己可以把一些心得体会都积累下来吧，(๑•̀ㅂ•́)و✧加油
+#### 幸会
+> (๑•̀ㅂ•́)و✧加油
