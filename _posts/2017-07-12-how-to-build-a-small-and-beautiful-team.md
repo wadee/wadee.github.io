@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 如何打造一个小而美的团队 
-date: 2017-07-13 16:11:11.000000000 +09:00
+date: 2017-07-12 22:11:11.000000000 +09:00
 tags: devops continuous-integration agile user-story docker gitlab-ci merge-request test-driven-development domain-driven-design common-language 
 ---
 ### 为什么需要小而美的团队
