@@ -1,13 +1,16 @@
 ---
 layout: post
 title: 如何打造一个小而美的团队 
+category: devops交付流程
 date: 2017-07-12 22:11:11.000000000 +09:00
-tags: devops continuous-integration agile user-story docker gitlab-ci merge-request test-driven-development domain-driven-design common-language 
+tags: devops,continuous-integration,agile,user-story,docker,gitlab-ci merge-request,test-driven-development,domain-driven-design,common-language 
 ---
 ### 为什么需要小而美的团队
 
 ### 如何打造小而美的团队
 *  聚焦于交付流程，而非仅仅是研发团队
+*  将研发团队的价值导向从**高流量高并发**转为**设计良好**
+	* 代码设计不能超过人的心智模型，必须设计良好
 
 #### 需求分析阶段
 * 用户故事
