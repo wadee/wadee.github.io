@@ -110,7 +110,7 @@ tags: devops,continuous-integration,agile,user-story,docker,gitlab-ci merge-requ
 我们更重视左项的价值。
 ```
 	
-* 敏捷任务组成
+* 敏捷团队组成
 	1. Development Team, 依靠团队的力量，而非个人或者各垂直部门.
 	2. Product Owner, 保证项目大方向的正确，解决外部矛盾，讨论中明确讨论范围与方向。
 	3. ScrumMaster, 负责保持整个敏捷流程的进行。
