@@ -2,8 +2,9 @@
 layout: post
 title: 关于php中单元测试的数据库依赖的问题
 date: 2017-07-17 12:21:11.000000000 +09:00
-tags: devops
+tags: phpunit, unit-test
 ---
+> 占位，未完待续
 
 ## 什么是单元测试
 在博文“[自动化测试目的](http://blog.adrianbolboaca.ro/2017/01/automated-tests-purposes/)”中，Bolboacă指出，单元测试应该完成如下工作：
