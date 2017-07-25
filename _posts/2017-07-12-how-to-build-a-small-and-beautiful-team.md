@@ -160,11 +160,15 @@ tags: devops,continuous-integration,agile,user-story,docker,gitlab-ci merge-requ
 	* 代码分支管理，推行业界主流[git flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)流程, 以保证多人协作任务的顺利完成。
 	![](/img/git-flow.svg)
 	* 代码[merge-request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)的引入，加入[code review](http://www.jianshu.com/p/6bcd082101c1)环节。
+		![](/img/merge-request-workflow.png)
 	* gitlab-ci的pipeline的引入，每次的提交触发流水线验收，包括代码风格检查，单元测试，集成测试，代码文档生成与发布，保证代码永远可用，增强交付信心。
 		![](/img/cicd_pipeline_infograph.png)
+	* 配合静态代码检查，单元测试，mess detector, 以及一些可以被自动化的步骤，比如说文档的生成
 	* 推行**配置即代码**的思想，将所有的环境配置与依赖都包含到代码中，配置**docker镜像交付**，消除环境部署与环境不一致的问题导致的 **反工作类型的问题排查** 以及 **不必要的沟通**。
+	   ![](/img/gitlab-ci-pipeline-php-project.png)
 	* 开发测试环境引入rancher,一键创建系统以及系统依赖，提供稳定的快速的开发测试环境。
-	
+	   ![](/img/continuous-integration-gitlab-ci-docker-rancher.png)
+				
 	
 ### 放在最后
 * 首先感谢能看到最后的人，长篇大论的实在不好消化，让大家见笑了。
